@@ -11,10 +11,10 @@
 
 ### 🛠️ **Tech Stack & Expertise**  
 
-✅ Languages: Java, Kotlin, SQL, JavaScript (for API integration)
-✅ Frameworks: Spring Boot, Spring Security, Hibernate, Quarkus
-✅ Databases: PostgreSQL, MySQL, MongoDB
-✅ Testing & Tools: JUnit, Mockito, Postman, Swagger
+- ✅ Languages: Java, Kotlin, SQL, JavaScript (for API integration)
+- ✅ Frameworks: Spring Boot, Spring Security, Hibernate, Quarkus
+- ✅ Databases: PostgreSQL, MySQL, MongoDB
+- ✅ Testing & Tools: JUnit, Mockito, Postman, Swagger
 
 ---
 
