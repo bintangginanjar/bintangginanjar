@@ -1,26 +1,26 @@
 # 👋 Hi, I'm Bintang Ginanjar  
-🚀 **Full-Stack Developer | SaaS & Admin Dashboard Specialist** 
+🚀 **Backend Developer (Java & Spring Boot)** 
 
 ---
 
 ### 🔥 About Me  
-- 💡 Helping SMBs build scalable **SaaS & Admin Dashboards**.  
-- 💻 Specializing in **Spring Boot (Java) & Vue.js** for SaaS solutions.
+- 💡 Building scalable SaaS & API-driven solutions.  
+- 💻 Passionate about clean architecture & high-performance systems.
 
 ---
 
-### 🛠️ **Tech Stack & Tools**  
+### 🛠️ **Tech Stack & Expertise**  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+✅ Languages: Java, Kotlin, SQL, JavaScript (for API integration)
+✅ Frameworks: Spring Boot, Spring Security, Hibernate, Quarkus
+✅ Databases: PostgreSQL, MySQL, MongoDB
+✅ Testing & Tools: JUnit, Mockito, Postman, Swagger
 
 ---
 
-### 🚀 **Let’s Build Your SaaS Together!**  
+### 🚀 **Let’s Build Your API Together!**  
 
-Looking for a **custom SaaS solution or an admin dashboard** for your business? Let’s talk!  
+Looking for a **custom high performance API solution** for your business? Let’s talk!  
 
 📩 **Email:** bintangginanjar@gmail.com
 <!--
